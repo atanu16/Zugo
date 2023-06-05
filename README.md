@@ -11,9 +11,9 @@
   <h2>Demo</h2>
   [Website](https://zugo.vercel.app/) <br>
   <br>
-  [Android Application (Apk)](https://rb.gy/k9h45)
+  [Android Application (Apk)](https://rb.gy/na78n)
   <br>
-  [IOS Application](https://rb.gy/rc9aq)
+  [IOS Application](https://rb.gy/w34p6)
   <br>
   <br>
   <br>

@@ -6,10 +6,15 @@
  - vite <br>
  - The Movie Database(TMDB) API <br>
   </h4>
+  
+  ![logo](https://github.com/atanu16/Zugo/assets/83860778/a84c01c8-4277-43b5-ac8b-98fb49a5e56f)
+
   <br>
+  
+  
 
   <h2>Demo</h2>
-  [Website](https://zugo.vercel.app/) <br>
+  [Website](https://zugo.vercel.app/) 
   <br>
   [Android Application (Apk)](https://rb.gy/na78n)
   <br>
@@ -19,11 +24,12 @@
   <br>
 
   Screenshot - <br>
-    // Desktop  <br>
+  <br>
+    <em>Desktop<em> <br>
     <br>
   ![Screenshot (1)](https://github.com/atanu16/Zugo/assets/83860778/6d1fadc1-8430-43b5-b258-6c6f6a5aa756)
   
-  // Mobile Application
+  <em>Mobile Application<em>
   <br>
   <br>
   ![Screenshot (2)](https://github.com/atanu16/Zugo/assets/83860778/b26ba8a5-1a2d-453d-b377-bc178db3021a)
